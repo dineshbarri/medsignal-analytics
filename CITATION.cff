@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this portfolio project, please cite it as below."
+title: "MedSignal Analytics"
+version: 1.0.0
+date-released: 2026-08-15
+authors:
+  - family-names: "Barri"
+    given-names: "Dinesh"
+repository-code: "https://github.com/dineshbarri/medsignal-analytics"
+license: MIT
