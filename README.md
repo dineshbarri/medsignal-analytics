@@ -7,7 +7,7 @@
 ### From openFDA reports to responsible pharmacovigilance insights
 
   <p>
-    <a href="bi/medsignal_dashboard.pdf"><img src="https://img.shields.io/badge/VIEW_DASHBOARD_REPORT-0F766E?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Power BI dashboard report"></a>
+    <a href="https://app.powerbi.com/view?r=eyJrIjoiOGMxYzdkMGMtMWRlZC00MGI1LTlmYTAtNGU5YjQyODhmNjc3IiwidCI6Ijk0MDJjMzY4LWZiM2MtNGNjMy05ODI4LTgyNDI4YjM2OWNhOSJ9"><img src="https://img.shields.io/badge/VIEW_DASHBOARD_REPORT-0F766E?style=for-the-badge&logo=powerbi&logoColor=white" alt="View Power BI dashboard report"></a>
     <a href="bi/medsignal_dashboard.pbix"><img src="https://img.shields.io/badge/DOWNLOAD_POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Download Power BI file"></a>
     <a href="notebooks/01_signal_exploration.ipynb"><img src="https://img.shields.io/badge/EXPLORE_NOTEBOOK-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Explore Jupyter notebook"></a>
   </p>
@@ -202,7 +202,7 @@ The existing Power BI report turns the analysis into three stakeholder-facing pa
 
 <div align="center">
 
-[![View Dashboard Report](https://img.shields.io/badge/🚀_VIEW_POWER_BI_DASHBOARD_REPORT-0F766E?style=for-the-badge&logo=powerbi&logoColor=white)](bi/medsignal_dashboard.pdf)
+[![View Dashboard Report](https://img.shields.io/badge/🚀_VIEW_POWER_BI_DASHBOARD_REPORT-0F766E?style=for-the-badge&logo=powerbi&logoColor=white)](https://app.powerbi.com/view?r=eyJrIjoiOGMxYzdkMGMtMWRlZC00MGI1LTlmYTAtNGU5YjQyODhmNjc3IiwidCI6Ijk0MDJjMzY4LWZiM2MtNGNjMy05ODI4LTgyNDI4YjM2OWNhOSJ9)
 [![Download PBIX](https://img.shields.io/badge/DOWNLOAD_INTERACTIVE_PBIX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](bi/medsignal_dashboard.pbix)
 
 </div>
